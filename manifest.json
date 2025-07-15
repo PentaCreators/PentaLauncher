@@ -1,14 +1,16 @@
 {
   "instances": [
     {
-      "id": "vanilla-1.8",
-      "name": "Vanilla 1.8",
-      "version": "1.8",
-      "loader": "vanilla",
-      "mods": [],
-      "icon": "https://example.com/icons/vanilla18.png",
-      "description": "Minecraft Vanilla 1.8",
-      "download": "https://raw.githubusercontent.com/PentaCreators/PentaLauncher/main/instances/vanilla-1.8.zip"
+      "id": "forge-1.18.2-2mods",
+      "name": "Forge 1.18.2 + 2 Mods",
+      "version": "1.18.2",
+      "loader": "forge",
+      "mods": [
+        { "name": "WorldEdit", "version": "7.2.9" },
+        { "name": "JEI",       "version": "9.8.0" }
+      ],
+      "description": "Forge 1.18.2 con WorldEdit y JEI preinstalados",
+      "download": "https://raw.githubusercontent.com/PentaCreators/PentaLauncher/main/instances/forge-1.18.2-2mods.zip"
     }
   ]
 }
