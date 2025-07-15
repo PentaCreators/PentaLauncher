@@ -1,16 +1,16 @@
 {
   "instances": [
     {
-      "id": "forge-1.18.2",
-      "name": "Forge 1.18.2",
+      "id": "forge-1.18.2-worldedit",
+      "name": "Forge 1.18.2 + WorldEdit",
       "version": "1.18.2",
       "loader": "forge",
       "mods": [
-        { "name": "WorldEdit", "version": "7.2.9" },
-        { "name": "JEI",       "version": "9.8.0" }
+        "WorldEdit 7.2.10"
       ],
-      "description": "Forge 1.18.2 con WorldEdit y JEI preinstalados",
-      "download": "https://raw.githubusercontent.com/PentaCreators/PentaLauncher/main/instances/forge-1.18.2.zip"
+      "icon": "https://example.com/icons/forge1182.png",
+      "description": "Instancia de Minecraft 1.18.2 con Forge y WorldEdit 7.2.10.",
+      "download": "https://raw.githubusercontent.com/PentaCreators/PentaLauncher/main/instances/forge-1.18.2-worldedit.zip"
     }
   ]
 }
