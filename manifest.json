@@ -1,8 +1,8 @@
 {
   "instances": [
     {
-      "id": "forge-1.18.2-2mods",
-      "name": "Forge 1.18.2 + 2 Mods",
+      "id": "forge-1.18.2",
+      "name": "Forge 1.18.2",
       "version": "1.18.2",
       "loader": "forge",
       "mods": [
