@@ -5,7 +5,7 @@
       "name": "Mi Modpack Completo",
       "version": "1.18.2",
       "type": "forge",
-      "loaderVersion": "40.1.0",
+      "loaderVersion": "40.2.0",
       "modpackZip": {
         "name": "Mi Modpack v1.0",
         "url": "https://raw.githubusercontent.com/PentaCreators/SERVER_LAUNCHER/main/instances/forge-1.18.2-worldedit.zip"
