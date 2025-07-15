@@ -10,7 +10,7 @@
         { "name": "JEI",       "version": "9.8.0" }
       ],
       "description": "Forge 1.18.2 con WorldEdit y JEI preinstalados",
-      "download": "https://raw.githubusercontent.com/PentaCreators/PentaLauncher/main/instances/forge-1.18.2-2mods.zip"
+      "download": "https://raw.githubusercontent.com/PentaCreators/PentaLauncher/main/instances/forge-1.18.2.zip"
     }
   ]
 }
