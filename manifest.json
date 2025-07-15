@@ -8,7 +8,7 @@
       "loaderVersion": "40.1.0",
       "modpackZip": {
         "name": "Mi Modpack v1.0",
-        "url": "https://tu-repositorio.github.com/modpacks/mi_modpack_v1.0.zip"
+        "url": "https://raw.githubusercontent.com/PentaCreators/SERVER_LAUNCHER/main/instances/forge-1.18.2-worldedit.zip"
       },
       "mods": [],
       "resourcePacks": [],
