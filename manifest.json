@@ -1,16 +1,44 @@
 {
   "instances": [
     {
-      "id": "forge-1.18.2-worldedit",
-      "name": "Forge 1.18.2 + WorldEdit",
+      "id": "mi-modpack-completo",
+      "name": "Mi Modpack Completo",
       "version": "1.18.2",
-      "loader": "forge",
+      "type": "forge",
+      "loaderVersion": "40.1.0",
+      "modpackZip": {
+        "name": "Mi Modpack v1.0",
+        "url": "https://tu-repositorio.github.com/modpacks/mi_modpack_v1.0.zip"
+      },
+      "mods": [],
+      "resourcePacks": [],
+      "icon": "https://example.com/icons/mi_modpack.png",
+      "description": "Instancia con un modpack completo desde un solo ZIP."
+    },
+    {
+      "id": "instancia-con-mods-individuales",
+      "name": "Instancia con Mods Individuales",
+      "version": "1.19.2",
+      "type": "fabric",
+      "loaderVersion": "0.14.21",
       "mods": [
-        "WorldEdit 7.2.10"
+        {
+          "name": "Sodium",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19.2-0.4.4%2Bbuild.18/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar"
+        },
+        {
+          "name": "Iris Shaders",
+          "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/1.6.4/iris-mc1.19.2-1.6.4.jar"
+        }
       ],
-      "icon": "https://example.com/icons/forge1182.png",
-      "description": "Instancia de Minecraft 1.18.2 con Forge y WorldEdit 7.2.10.",
-      "download": "https://raw.githubusercontent.com/PentaCreators/PentaLauncher/main/instances/forge-1.18.2-worldedit.zip"
+      "resourcePacks": [
+        {
+          "name": "Faithful 32x",
+          "url": "https://download.faithfulpack.net/faithful/1.19.2/faithful-32x-1.19.2.zip"
+        }
+      ],
+      "icon": "https://example.com/icons/fabric1192.png",
+      "description": "Instancia con mods y resource packs individuales."
     }
   ]
 }
