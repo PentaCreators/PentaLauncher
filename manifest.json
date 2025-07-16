@@ -1,13 +1,13 @@
 {
   "instances": [
     {
-      "id": "fabric-1.20.1-vanilla",
-      "name": "Fabric 1.20.1 (sin mods)",
-      "version": "1.20.1",
-      "type": "fabric",
-      "loaderVersion": "0.15.10",
-      "download": "https://raw.githubusercontent.com/PentaCreators/PentaLauncher/main/instances/fabric-1.20.1.zip",
-      "description": "Instancia b\u00e1sica de Fabric 1.20.1 sin mods."
+      "id": "forge-1.18.2-vanilla",
+      "name": "Forge 1.18.2 (sin mods)",
+      "version": "1.18.2",
+      "type": "forge",
+      "loaderVersion": "40.2.0",
+      "download": "https://raw.githubusercontent.com/PentaCreators/PentaLauncher/main/instances/forge-1.18.2.zip",
+      "description": "Instancia básica de Forge 1.18.2 sin mods."
     }
   ]
 }
