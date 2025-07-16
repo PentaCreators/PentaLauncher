@@ -29,6 +29,6 @@
         "nodelete/"
       ]
     }
-    // Puedes añadir más instancias aquí con sus propios protectedPaths
+    
   ]
 }
