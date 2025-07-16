@@ -1,16 +1,17 @@
 {
-  "id": "1.20.1-fabric",
-  "inheritsFrom": "1.20.1",
-  "time": "2023-07-01T00:00:00+00:00",
-  "type": "release",
-  "mainClass": "net.minecraft.client.main.Main",
-  "arguments": {
-    "game": [],
-    "jvm": []
-  },
-  "libraries": [
+  "instances": [
     {
-      "name": "net.fabricmc:fabric-loader:0.15.10"
+      "id": "fabric-1.20.1-vanilla",
+      "name": "Fabric 1.20.1 asas(sin mods)",
+      "meta": {
+        "type": "fabric",
+        "version": "1.20.1",
+        "loader": "0.15.10"
+      },
+      "mods": [],
+      "resourcePacks": [],
+      "description": "Instancia básica de Fabric 1.20.1 sin mods.",
+      "download": "https://raw.githubusercontent.com/PentaCreators/PentaLauncher/main/instances/fabric-1.20.1.zip"
     }
   ]
 }
