@@ -3,9 +3,11 @@
     {
       "id": "fabric-1.20.1-vanilla",
       "name": "Fabric 1.20.1 (sin mods)",
-      "version": "1.20.1",
-      "type": "fabric",
-      "loaderVersion": "0.15.10",
+      "meta": {
+        "type": "fabric",
+        "version": "1.20.1",
+        "loader": "0.15.10"
+      },
       "mods": [],
       "resourcePacks": [],
       "description": "Instancia básica de Fabric 1.20.1 sin mods.",
