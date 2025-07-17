@@ -1,0 +1,11 @@
+{
+  "user_instance_access": {
+    "UsuarioPremiumEjemplo": [
+      "id_instancia_premium_exclusiva_1",
+      "id_instancia_premium_exclusiva_2"
+    ],
+    "UsuarioCrackedEjemplo": [
+      "id_instancia_cracked_exclusiva_1"
+    ]
+  }
+}
