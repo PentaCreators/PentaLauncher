@@ -6,7 +6,7 @@
       "version": "1.20.1",
       "type": "forge",
       "loaderVersion": "47.4.0",
-      "download": "https://raw.githubusercontent.com/PentaCreators/PentaLauncher/main/instances/1.20.1-forge-47.4.0",
+      "download": "https://raw.githubusercontent.com/PentaCreators/PentaLauncher/main/instances/1.20.1-forge-47.4.0.zip",
       "description": "Evento del Circulo Desarrollado Por Penta Creators",
       "protectedPaths": [
         ".minecraft/assets/",
