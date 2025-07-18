@@ -1,13 +1,13 @@
 {
   "instances": [
     {
-      "id": "forge-1.18.2-vanilla",
-      "name": "Forge 1.18.2 (sin mods)",
-      "version": "1.18.2",
+      "id": "1.20.1-forge-47.4.0",
+      "name": "Evento Circulo",
+      "version": "1.20.1",
       "type": "forge",
-      "loaderVersion": "40.2.0",
-      "download": "https://raw.githubusercontent.com/PentaCreators/PentaLauncher/main/instances/forge-1.18.2.zip",
-      "description": "Instancia básica de Forge 1.18.2 sin mods.",
+      "loaderVersion": "47.4.0",
+      "download": "https://raw.githubusercontent.com/PentaCreators/PentaLauncher/main/instances/1.20.1-forge-47.4.0",
+      "description": "Evento del Circulo Desarrollado Por Penta Creators",
       "protectedPaths": [
         ".minecraft/assets/",
         ".minecraft/libraries/",
